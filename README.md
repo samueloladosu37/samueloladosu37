@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Samuel Oladosu] –  RF/mmWave Engineer
+# 👋 Hi, I'm Samuel Oladosu –  RF/mmWave Engineer
 
 I'm passionate about microelectronic devices, designing high-frequency circuits, and microwave systems. This GitHub hosts simulations, design projects, and automation tools I've built while learning.
 
