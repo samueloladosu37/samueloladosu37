@@ -23,7 +23,7 @@ I'm passionate about microelectronic devices, designing high-frequency circuits,
 |--------|-------------|
 | [Smart Arduino Home Security System with Password-Enabled Alarm and Multi-Sensor Control](https://github.com/samueloladosu37/Arduino-project-on-Home-Security) | An Arduino-based home security system that integrates multiple sensors (DHT11, PIR, flame, reed switch, photoresistor) with a password-enabled alarm. Features real-time LCD display, sensor-triggered alerts, and custom password logic for secure arming/disarming. |
 | [Patch-Antenna-Design-28GHz](mmWave-5G-Channel-MATLAB-Simulation) | HFSS model of a 28 GHz mmWave patch antenna with gain optimization. Radiation pattern and return loss results included. |
-| [MATLAB FFT Analysis of Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)]([./RF-Projects/RF-Test-Automation-Python](https://github.com/samueloladosu37/Frequency-Analysis-of-PMUT-Signals-Using-FFT-in-MATLAB)) | PAnalysis of Piezoelectric Micromachined Ultrasonic Transducer (PMUT) signals using Fast Fourier Transform (FFT) in MATLAB to identify dominant frequencies and characterize resonant behavior for improved transducer performance. |
+| [MATLAB FFT Analysis of Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)]([./RF-Projects/RF-Test-Automation-Python](https://github.com/samueloladosu37/Frequency-Analysis-of-PMUT-Signals-Using-FFT-in-MATLAB)) | Analysis of Piezoelectric Micromachined Ultrasonic Transducer (PMUT) time domain signals using Fast Fourier Transform (FFT) in MATLAB to identify dominant frequencies and characterize resonant behavior for improved transducer performance. |
 
 
 ##⚡ **Fun fact: I like to learn new things**
