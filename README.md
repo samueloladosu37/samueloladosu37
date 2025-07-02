@@ -26,7 +26,9 @@ I'm passionate about microelectronic devices, designing high-frequency circuits,
 | [MATLAB FFT Analysis of Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)](https://github.com/samueloladosu37/Frequency-Analysis-of-PMUT-Signals-Using-FFT-in-MATLAB) | Analysis of Piezoelectric Micromachined Ultrasonic Transducer (PMUT) time domain signals using Fast Fourier Transform (FFT) in MATLAB to identify dominant frequencies and characterize resonant behavior for improved transducer performance. |
 
 
-##⚡ **Fun fact: I like to learn new things**
+##⚡ **Fun fact: I like learning new things** > “If you’re not learning, you’re not growing. And if you’re not growing, you’re not going anywhere.”  
+> — *John C. Maxwell*
+
 
 
 ## 📫 Let's Connect
