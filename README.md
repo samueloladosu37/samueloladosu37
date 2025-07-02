@@ -29,7 +29,8 @@ I'm passionate about microelectronic devices, designing, validating high-frequen
 ##⚡ **Fun fact: I like learning new things** 
 > “If you’re not learning, you’re not growing. And if you’re not growing, you’re not going anywhere.”   — *John C. Maxwell*
 
-
+##⚡ **Other Interests** 
+> Cloud Services , IT/Networking, Data Center Operations, Cyber Security
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/samueloladosu/]
