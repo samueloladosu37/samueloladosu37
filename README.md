@@ -16,6 +16,7 @@ I'm passionate about microelectronic devices, designing, validating high-frequen
   - Waveguide Transitions, Noise Sources, GSG Probing, CPW
   - 3D Modeling
   - Laser Micromachining, CNC Machining
+  - Clean Room User, MEMS Fabrication Technology
 
 ## 📂 Portfolio Projects
 
