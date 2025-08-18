@@ -8,7 +8,7 @@ I'm passionate about microelectronic devices, designing, validating high-frequen
 - **Finite Element Simulation**: COMSOL Multiphysics
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso
 - **CAD & Mechanical Tools**: Fusion 360, AlphaCAM
-- **Programming**: Python, MATLAB, C++, LabVIEW
+- **Programming**: Python, MATLAB
 
 - **Key Concepts**: 
   - S-parameters, Impedance Matching, Calibration Techniques
