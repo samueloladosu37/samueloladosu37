@@ -13,7 +13,7 @@ I'm passionate about microelectronic devices, designing, validating high-frequen
 - **Key Concepts**: 
   - S-parameters, Impedance Matching, Calibration Techniques
   - Power Dividers, Directional Couplers, Filters, Mixers, LNA
-  - Waveguide Transitions, Noise Sources, GSG Probing, CPW
+  - Waveguide Transitions, Noise Sources, GSG Probes
   - 3D Modeling
   - Laser Micromachining, CNC Machining
   - Clean Room User, MEMS Fabrication Technology
