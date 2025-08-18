@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samuel Oladosu –  RF/mmWave Engineer
 
-I love modeling and simulation. 
-I am passionate about microelectronic devices, designing, validating high-frequency circuits, and microwave systems. Here, you will find my modeling, simulations, and experiments.
+-I love modeling and simulation. 
+-I am passionate about microelectronic devices, designing, validating high-frequency circuits, and microwave systems. Here, you will find my modeling, simulations, and experiments.
 
 ## 🔧 Technical Skills
 
