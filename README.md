@@ -6,16 +6,17 @@ I am passionate about microelectronic devices, designing, validating high-freque
 
 ## 🔧 Technical Skills
 
-- **RF Simulation Tools**: Keysight ADS, CST Studio Suite, AWR, MATLAB
+- **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB
 - **Finite Element Simulation**: COMSOL Multiphysics
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso
 - **CAD & Mechanical Tools**: Fusion 360, AlphaCAM
 - **Programming**: Python, MATLAB
 
-- **Key Concepts**: 
+- **My daily buzz words**: 
   - S-parameters, Impedance Matching, Calibration Techniques
   - Power Dividers, Directional Couplers, Filters, Mixers, LNA
-  - Waveguide Transitions, Noise Sources, GSG Probes
+  - IP3, P1dB, NF, Return Loss, Insertion Loss
+  - Waveguide Transitions, Noise Source, GSG Probes
   - 3D Modeling
   - Laser Micromachining, CNC Machining
   - Clean Room User, MEMS Fabrication Technology
