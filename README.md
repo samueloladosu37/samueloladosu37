@@ -2,7 +2,7 @@
 
 I love modeling and simulation. 
 
-I am passionate about microelectronic devices, designing, validating RF/mmW circuits, and microwave passive and active devices. Here, you will find my modeling, simulations, and experiments.
+I am passionate about designing, validating RF/mmW circuits, and microwave passive and active devices. Here, you will find my modeling, simulations, and experiments.
 
 ## 🔧 Technical Skills
 
