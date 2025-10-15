@@ -21,7 +21,7 @@ I am passionate about microelectronic devices, designing, validating high-freque
   - Laser Micromachining, CNC Machining
   - Clean Room User, MEMS Fabrication Technology
 
-## 📂 Portfolio Projects
+## 📂 Projects
 
 | Project | Description |
 |--------|-------------|
