@@ -6,11 +6,11 @@ I am passionate about designing, validating RF/mmW circuits, and microwave passi
 
 ## 🔧 Technical Skills
 
-- **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB ⭐⭐⭐⭐
-- **Finite Element Simulation**: COMSOL Multiphysics ⭐⭐⭐⭐⭐
+- **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB ⭐⭐⭐⭐ - Actively Using
+- **Finite Element Simulation**: COMSOL Multiphysics ⭐⭐⭐⭐⭐ -Actively Using
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso ⭐⭐⭐
-- **CAD & Mechanical Tools**: Fusion 360, AlphaCAM ⭐⭐⭐
-- **Programming**: Python, MATLAB ⭐⭐⭐
+- **CAD & Mechanical Tools**: Fusion 360, AlphaCAM ⭐⭐⭐ Actively Using
+- **Programming**: Python, MATLAB ⭐⭐⭐ Actively Using
 
 - **My daily buzz words**: 
   - S-parameters, Impedance Matching, Calibration Techniques
