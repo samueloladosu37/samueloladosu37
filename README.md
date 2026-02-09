@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel Oladosu –  RF/mmWave Engineer
+# 👋 Hi, I'm Samuel Oladosu –  RF/mmW Engineer
 
 I love modeling and simulation. 
 
