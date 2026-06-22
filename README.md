@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Oladosu, currently concluding my PhD in Electronics, Microelecronics, and Microwaves.
 
-I am always curious about artificial intelligence and its application to several domains like microchips fabrication, Sales, Marketing, Project Management and Entertainment.
+I am always curious about artificial intelligence and its application to several domains like microchips fabrication, sales, marketing, project management and entertainment.
 
 ## 🔧 Technical Skills
 
