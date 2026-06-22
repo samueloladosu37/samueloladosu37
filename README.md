@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Samuel Oladosu –  RF/mmW Engineer
+# 👋 Hi, I'm Samuel Oladosu, currently concluding my PhD in Electronics, Microelecronics, and Microwaves.
 
-I love modeling and simulation. 
-
-I am passionate about designing, validating RF/mmW circuits, and microwave passive and active components. Here, you will find my modeling, simulations, and experiments.
+I am always curious about artificial intelligence and its application is several domains like microchips fabrication, Sales, Marketing, Project Management and Entertainment.
 
 ## 🔧 Technical Skills
 
@@ -11,6 +9,7 @@ I am passionate about designing, validating RF/mmW circuits, and microwave passi
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso ⭐⭐⭐
 - **CAD & Mechanical Tools**: Fusion 360, AlphaCAM ⭐⭐⭐ Actively Using
 - **Programming**: Python, MATLAB ⭐⭐⭐ Actively Using
+- Project Management, Technical Documentation and Customer's Support
 
 - **My daily buzz words**: 
   - S-parameters, Impedance Matching, Calibration Techniques
