@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Samuel Oladosu, currently concluding my PhD in Electronics, Microelecronics, and Microwaves.
 
-I am always curious about artificial intelligence and its application to several domains like microchips fabrication, sales, marketing, project management and entertainment.
-
+I am always curious about artificial intelligence and its application to semiconductors, product and project development. 
 ## 🔧 Technical Skills
 
 - **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB ⭐⭐⭐⭐ - Actively Using
