@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Samuel Oladosu, currently concluding my PhD in Electronics, Microelecronics, and Microwaves.
 
-I am always curious about artificial intelligence and its application to semiconductors, product and project development. 
+I am always curious about artificial intelligence and its application to design, modelling and simulation, product and project development. 
+I use Gen. AI tools to automate workflows, optimize designs, improve processes, manage teams and knowledge areas.
+
 ## 🔧 Technical Skills
 
 - **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB ⭐⭐⭐⭐ - Actively Using
@@ -8,11 +10,11 @@ I am always curious about artificial intelligence and its application to semicon
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso ⭐⭐⭐
 - **CAD & Mechanical Tools**: Fusion 360, AlphaCAM ⭐⭐⭐ Actively Using
 - **Programming**: Python, MATLAB ⭐⭐⭐ Actively Using
-- Project Management, Technical Documentation and Customer's Support
+- Project Management, Technical Documentation, Application and Systems Support.
 
 - **My daily buzz words**: 
   - S-parameters, Impedance Matching, Calibration Techniques
-  - Power Dividers, Directional Couplers, Filters, Mixers, LNA
+  - Power Dividers, Couplers, Filters, Mixers, LNA
   - IP3, P1dB, NF, Return Loss, Insertion Loss
   - Waveguide Transitions, Noise Source, GSG Probes
   - 3D Modeling
