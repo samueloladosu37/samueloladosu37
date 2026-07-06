@@ -5,11 +5,11 @@ I use Gen. AI tools to automate workflows, optimize designs, improve processes, 
 
 ## 🔧 Technical Skills
 
-- **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB ⭐⭐⭐⭐ - Actively Using
-- **Finite Element Simulation**: COMSOL Multiphysics ⭐⭐⭐⭐⭐ -Actively Using
-- **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso ⭐⭐⭐
-- **CAD & Mechanical Tools**: Fusion 360, AlphaCAM ⭐⭐⭐ Actively Using
-- **Programming**: Python, MATLAB ⭐⭐⭐ Actively Using
+- **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB  - Actively Using
+- **Solid Mechanics, Heat Flow, Piezoelectricity, FEM**: COMSOL Multiphysics  -Actively Using
+- **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso -Experienced Using
+- **CAD & Mechanical Tools**: Fusion 360, AlphaCAM, Actively Using
+- **Programming**: Python, MATLAB, SQL Actively Using
 - Project Management, Technical Documentation, Application and Systems Support.
 
 - **My daily buzz words**: 
