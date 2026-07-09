@@ -10,6 +10,7 @@ I use Gen. AI-assisted tools to automate workflows, optimize designs, and improv
 - **CAD & Mechanical Tools**: Fusion 360, AlphaCAM, Actively Using
 - **Programming**: Python, MATLAB, SQL Actively Using
 - Project Management, Technical Documentation, Application and Systems Support.
+- Networks and Network Cabling, Smarthome Automation, Audio & Video Over IP, Acoustic Engineering.
 
 - **My daily buzz words**: 
   - S-parameters, Impedance Matching, Calibration Techniques
