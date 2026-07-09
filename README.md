@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Samuel Oladosu, PhD in Electronics, Microelecronics, and Microwaves.
 
-I am always curious about artificial intelligence and its application to design, modelling and simulation, product and project development. 
-I use Gen. AI-assisted tools to automate workflows, optimize designs, and improve processes.
 ## 🔧 Technical Skills
 
 - **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB  - Actively Using
@@ -35,6 +33,8 @@ I use Gen. AI-assisted tools to automate workflows, optimize designs, and improv
 
 ##⚡ **Other Interests** 
 > Cloud Services , IT/Networking, Data Center Operations, Cyber Security
+> I am always curious about artificial intelligence and its application to design, modelling and simulation, product and project development. 
+I use Gen. AI-assisted tools to automate workflows, optimize designs, and improve processes.
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/samueloladosu/]
