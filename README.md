@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Oladosu, PhD in Electronics, Microelecronics, and Microwaves.
 
-I am interested in the design, development, characterization, and validation of RF and microwave passive and active devices. My interests also extend to machine learning and artificial intelligence, technical documentation, application engineering, and project, program, and product management for microelectronic and electronic devices within the semiconductor ecosystem and the medtech industry.
+I am interested in the design, development, characterization, and validation of RF and microwave passive and active devices. My interests also extend to machine learning and artificial intelligence, technical documentation, application engineering, and project, program, and product management for microelectronic and electronic chips/devices within the semiconductor ecosystem and the medtech industry.
 
 
 ## 🔧 Technical Skills
