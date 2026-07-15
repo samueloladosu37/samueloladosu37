@@ -8,7 +8,7 @@ I am passionate about the design, development, characterization, and validation 
 - **Solid Mechanics, Heat Flow, Piezoelectricity, FEM**: COMSOL Multiphysics  -Actively Using
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso -Experienced Using
 - **CAD**: Fusion 360, AlphaCAM, Actively Using
-- **Packaging**: Laser machining, pick and place assembly, dicing saw, CNC machining, bonding
+- **Packaging**: Laser machining, pick and place assembly, dicing saw, CNC machining, bonding, Chenmical Mechanical Polishing (CMP).
 - **Programming**: Python, MATLAB, SQL Actively Using
 - Project Management, Technical Documentation, Application and Systems Support.
 - Networks and Network Cabling, Smarthome Automation, Audio & Video Over IP, Acoustic Engineering.
