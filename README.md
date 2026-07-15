@@ -7,7 +7,8 @@ I am passionate about the design, development, characterization, and validation 
 - **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB  - Actively Using
 - **Solid Mechanics, Heat Flow, Piezoelectricity, FEM**: COMSOL Multiphysics  -Actively Using
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso -Experienced Using
-- **CAD & Mechanical Tools**: Fusion 360, AlphaCAM, Actively Using
+- **CAD**: Fusion 360, AlphaCAM, Actively Using
+- **Packaging**: Laser machining, pick and place assembly, dicing saw, CNC machining, bonding
 - **Programming**: Python, MATLAB, SQL Actively Using
 - Project Management, Technical Documentation, Application and Systems Support.
 - Networks and Network Cabling, Smarthome Automation, Audio & Video Over IP, Acoustic Engineering.
@@ -16,10 +17,9 @@ I am passionate about the design, development, characterization, and validation 
   - S-parameters, Impedance Matching, Calibration Techniques
   - Power Dividers, Couplers, Filters, Mixers, LNA
   - IP3, P1dB, NF, Return Loss, Insertion Loss
-  - Waveguide Transitions, Noise Source, GSG Probes
+  - Waveguide Transitions, Noise Source, CPW, Microstrip, GSG Probes
   - 3D Modeling
-  - Laser Micromachining, CNC Machining
-  - Clean Room User, MEMS Fabrication Technology
+  - Clean Room User, MEMS Fabrication Technologies (Deposition, Sputtering, DRIE, Etching, Development)
 
 ## 📂 Projects
 
