@@ -1,25 +1,29 @@
-# 👋 Hi, I'm Samuel Oladosu, PhD in Electronics, Microelecronics, and Microwaves.
+# 👋 Hi, I'm Samuel Oladosu, PhD in Electronics, Microelectronics, and Microwaves.
 
-I am passionate about the design, development, characterization, and validation of RF and microwave passive and active devices. My interests also include electromagnetic modeling and simulation, machine learning and artificial intelligence, technical documentation, application engineering, and project, program, and product management for semiconductor devices and electronic systems within the semiconductor and medtech industries. I have a strong foundation in semiconductor physics, MEMS technologies, electromagnetism, measurement and calibration, and 3D modeling.
+I am passionate about the design, development, characterization, and validation of RF and microwave passive and active devices. 
+--
+My interests also include electromagnetic modeling and simulation, machine learning and artificial intelligence, technical documentation, application engineering, and project, program, and product management for semiconductor devices and electronic systems within the semiconductor and medtech industries. I have a strong foundation in semiconductor physics, MEMS technologies, electromagnetism, measurement and calibration, and 3D modeling.
 
 ## 🔧 Technical Skills
 
-- **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB  - Actively Using
+- **RF Simulation Tools**: ADS, CST Studio Suite, AWR, MATLAB  -Actively Using
 - **Solid Mechanics, Heat Flow, Piezoelectricity, FEM**: COMSOL Multiphysics  -Actively Using
 - **PCB Design & Circuit Simulation**: Altium Designer, Proteus, Cadence Virtuoso -Experienced Using
-- **CAD**: Fusion 360, AlphaCAM, Actively Using
+- **CAD**: Fusion 360, AlphaCAM, -Actively Using
 - **Packaging**: Laser Machining, Pick and Place Assembly, Dicing saw, CNC Machining, Bonding, Chemical Mechanical Polishing (CMP).
-- **Programming**: Python, MATLAB, SQL Actively Using
+- **Programming**: Python, MATLAB, SQL -Actively Using
 - Project Management, Technical Documentation, Application and Systems Support.
-- Networks and Network Cabling, Smarthome Automation, Audio & Video Over IP, Acoustic Engineering.
+- Networking & Cabling, Smarthome Automation, Audio & Video Over IP, Acoustic Engineering.
+- Passive components: Planar-Planar transitions, Waveguide-Waveguide transitions, Planar-Waveguide transitions, Power divider/couplers, Waveguide flange, RF connectors, Filters, RF & mmW Probes, RF Switches
+- Active components: Capacitive & Piezoelectric transducers, Actuators, LNA
 
 - **My daily buzz words**: 
-  - S-parameters, Impedance Matching, Calibration Techniques
+  - Measurement, S-parameters, Impedance Matching, Calibration Techniques
   - Power Dividers, Couplers, Filters, Mixers, LNA
   - IP3, P1dB, NF, Return Loss, Insertion Loss
-  - Waveguide Transitions, Noise Source, CPW, Microstrip, GSG Probes
+  - Waveguide Transitions, Noise Source, CPW, Microstrip, SIW, GSG Probes
   - 3D Modeling
-  - Clean Room User, MEMS Fabrication Technologies (Deposition, Sputtering, DRIE, Etching, Development)
+  - Clean Room, MEMS Fabrication (Photolithography, E-beam Evaporation, Sputtering, DRIE((Deep Reactive-Ion Etching), Wet/Dry Etching)
 
 ## 📂 Projects
 
