@@ -21,7 +21,7 @@ My interests also include electromagnetic modeling and simulation, machine learn
   - Measurement, S-parameters, Impedance Matching, Calibration Techniques
   - Power Dividers, Couplers, Filters, Mixers, LNA
   - IP3, P1dB, NF, Return Loss, Insertion Loss
-  - Waveguide Transitions, Noise Source, CPW, Microstrip, SIW, GSG Probes
+  - Transitions, Noise Source, CPW, Microstrip, SIW, GSG Probes
   - 3D Modeling
   - Clean Room, MEMS Fabrication (Photolithography, E-beam Evaporation, Sputtering, DRIE((Deep Reactive-Ion Etching), Wet/Dry Etching)
 
