@@ -17,6 +17,12 @@ My interests also extends to machine learning and artificial intelligence, techn
 - Passive components: Planar-Planar transitions, Waveguide-Waveguide transitions, Planar-Waveguide transitions, Power divider/couplers, Waveguide flange, RF connectors, Filters, RF & mmW Probes, RF Switches
 - Active components: Capacitive & Piezoelectric transducers, Actuators, LNA
 
+  ## 🔧 Soft Skills
+  - Initiative and ownership
+  - Independent & team problem-solving skills
+  - Curiosity and passion for learning
+  - Strong communication, presentation, and writing skills
+
 - **My daily buzz words**: 
   - Measurement, S-parameters, Impedance Matching, Calibration Techniques
   - Power Dividers, Couplers, Filters, Mixers, LNA
